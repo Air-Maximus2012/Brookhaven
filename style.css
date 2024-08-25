@@ -1,0 +1,49 @@
+body {
+       font-family: Arial;
+       background-color: aqua;
+}
+
+h1 {
+     font-size: 50px;
+     text-align: center;
+     color: rgb(0, 180, 0);
+     border-bottom: 5px solid blue;
+     text-transform: uppercase;
+}
+
+nav a {
+        text-decoration: none;
+        background-color: blue;
+        color: white;
+        border-radius: 10px;
+        padding: 5px;
+        margin: 20px;
+}
+
+p {
+    font-size: 20px;
+    color: rgb(42, 209, 0);
+    background-color: aliceblue;
+    border: 3px solid blue;
+    border-radius: 8px;
+    text-align: left;
+    font-family: cursive;
+}
+
+.logo {
+        height: 150px;
+        width: 300px;
+        margin: 8px;
+        border: 3px solid blue;
+        border-radius: 15px;
+}
+
+footer a {
+           text-decoration: none;
+           background-color: rgb(0, 235, 12);
+           color: rgb(0, 17, 255);
+           border-radius: 10px;
+           padding: 5px;
+           margin: 15px;
+           
+}
